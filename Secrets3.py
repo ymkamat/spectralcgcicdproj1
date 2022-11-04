@@ -1,2 +1,1 @@
-AWSAccessKeyId=AKIAIP5WFLE3YBTE4T8K
-AWSSecretKey=QD2ygUYzTE2uV8gWfHYqmz1Lp+wd3IWG5Msfs3zH
+removed keys
